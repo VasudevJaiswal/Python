@@ -10,7 +10,10 @@ and cannot be updated. Tuples can be thought of as read-only lists. For example-
 
 
 
- Exp :      tuple = ( 'abcd', 786 , 2.23, 'Vasudev', 70.2 )
+ Exp :     
+ 
+ 
+            tuple = ( 'abcd', 786 , 2.23, 'Vasudev', 70.2 )
             tinytuple = (123, 'Vasudev')
             print (tuple)               # Prints complete tuple
             print (tuple[0])            # Prints first element of the tuple
