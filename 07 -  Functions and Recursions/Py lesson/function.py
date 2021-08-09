@@ -7,25 +7,34 @@
 # A function can be reused by the programmer in a given program any number of times.
 
 
-# Percentage finding Using Function 
 
-# 01.
+
+# 01. Method  for finding percentage
 
 marks = [45,78,86,77]
 Percentage = (sum(marks)/400)*100
 print(Percentage)
 
-# 02. 
+# 02.  Method for finding percentage
 marks1 = [75,98,88,78]
 p2 = (sum(marks1)/400)*100
 print(p2)
 
 # If programmer don't know function then he use to find percentage this method
 
-# 03. 
+# 03.  Method for finding percentage
 marks2 = [75,98,88,78]
 p2 = ((marks2[0]+marks2[1]+marks2[2]+marks2[3])/400)*100
 print(p2)
 
+# *******************************************************************
+# Percentage finding Using Function   - Very Important points 
 
+def percent(marks):
+    p = (sum(marks)/400)*100
+    return p
 
+marks1 = [45,78,86,77]
+percentage1 = percent(marks)    # I call the function - percent
+
+marks2 = [75,98,88,78]
