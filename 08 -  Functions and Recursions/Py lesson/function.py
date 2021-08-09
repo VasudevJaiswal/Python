@@ -1,6 +1,3 @@
-
-
-
 # 01. Method  for finding percentage
 
 marks = [45,78,86,77]
@@ -18,6 +15,9 @@ print(p2)
 marks2 = [75,98,88,78]
 p2 = ((marks2[0]+marks2[1]+marks2[2]+marks2[3])/400)*100
 print(p2)
+
+
+
 
 
 
@@ -65,7 +65,7 @@ print(percentage1,percentage2)
 def func1():
 	print(“Hello”)
 
-    
+
 '''Note: This function can be called any number of times, anywhere in the program.'''
 
 '''Function call :
