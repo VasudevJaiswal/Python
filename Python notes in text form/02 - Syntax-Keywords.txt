@@ -20,7 +20,9 @@ any other Indentifier names.
 # Python doesn't use braces ({ }) to indicate blocks of code for class and function 
 definitions or flow control .
 
-Exp :    if True:
+Exp :    
+
+         if True:
              print("true")
          else:
              print("false")
