@@ -43,12 +43,13 @@ Exp :
 
 
 
-            @ Quotation in Python  :: 
+@ Quotation in Python  :: 
 
 # Python accepts single (') , double (") and triple (''' or ''') quotes to
 denote string literals, as long as the same type of quote starts and ends the string.
 
-            @ Comments in Python ::
+
+ @ Comments in Python ::
 
 # A hash singn (#) that is not inside a string literal is the beginning of a 
 Comment 
@@ -56,5 +57,5 @@ Comment
 1. #First Comment
 2. print("hello")    #Seconed Comments 
 3.  ''' 
-        multi-line Comments
+       @multi-line Comments
                               '''
