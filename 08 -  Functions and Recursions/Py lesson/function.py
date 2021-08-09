@@ -64,6 +64,8 @@ print(percentage1,percentage2)
 
 def func1():
 	print(“Hello”)
+
+    
 '''Note: This function can be called any number of times, anywhere in the program.'''
 
 '''Function call :
