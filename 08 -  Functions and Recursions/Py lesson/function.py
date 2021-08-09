@@ -1,3 +1,6 @@
+
+# Some other method for finding percentage to understand to fuction Improtance
+
 # 01. Method  for finding percentage
 
 marks = [45,78,86,77]
@@ -15,9 +18,6 @@ print(p2)
 marks2 = [75,98,88,78]
 p2 = ((marks2[0]+marks2[1]+marks2[2]+marks2[3])/400)*100
 print(p2)
-
-
-
 
 
 
