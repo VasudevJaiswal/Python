@@ -56,3 +56,18 @@ print(percentage1,percentage2)
 # That's very easy way to call a  funtion to evalute a program 
 
 
+
+
+# Example and Syntax of a function  :
+
+# The syntax of a function looks as follows:
+
+def func1():
+	print(“Hello”)
+'''Note: This function can be called any number of times, anywhere in the program.'''
+
+'''Function call :
+
+Whenever we want to call a function, we put the name of the function followed by parenthesis as follows:
+func1()      #This is called function call
+'''
