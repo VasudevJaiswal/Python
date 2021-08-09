@@ -71,3 +71,10 @@ def func1():
 Whenever we want to call a function, we put the name of the function followed by parenthesis as follows:
 func1()      #This is called function call
 '''
+
+
+# Types of functions in Python
+# There are two types of functions in Python:
+
+# Built-in functions #Already present in Python
+# User-defined functions #Defined by the user
