@@ -38,6 +38,7 @@ as  a numeric value and his or her address is stored as alphanumeric characters 
 
 :- Python has Five standard data Types ==:
 
+
 1. Numbers Data Types
 
 2. String Data Types
