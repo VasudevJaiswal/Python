@@ -30,12 +30,13 @@ Exp :
     Output -  error 
 
 
-  @ Multi-Line Statements :: 
+@ Multi-Line Statements :: 
 
 # Statements in Python typically end with a new line. Python, however, allows the use
 of the line  #Continuation character (\) to denote that the line should continue/
 
-Exp :    total = item-one +\
+Exp :    
+                 total = item-one +\
                  item-two +\
                  item-three +\
                  item-four 
