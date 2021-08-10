@@ -22,3 +22,8 @@ for i in range(n):
 # 		return i
 # 	else:
 # 		return n*factorial(n-1) #Function calling itself'''
+
+
+# The programmer needs to be extremely careful while working with recursion to ensure that the function doesn’t infinitely keep calling itself.
+
+# Recursion is sometimes the most direct way to code an algorithm.
