@@ -7,3 +7,6 @@
 # Examples of built-in function includes len(), print(), range(), etc.
 
 # The func1() function we defined is an example of a user-defined function.
+
+
+# len,print,def, is a Built in function 
