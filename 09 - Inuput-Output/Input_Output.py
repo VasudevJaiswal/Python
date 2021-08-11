@@ -26,4 +26,9 @@
 
 # Reading a file in Python
 
+# Exp: 
+
+f = open('sample.txt', 'r')
+data = f.read()
+print(data)
 
