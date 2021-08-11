@@ -7,3 +7,9 @@
 # f.write(“This is nice”)        #Can be called multiple times
 
 # f.close()
+
+
+f = open('this.txt', 'w')
+f.write("dev - vasu")
+f.close
+print(f)
