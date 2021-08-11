@@ -11,5 +11,19 @@
 
 # There are 2 types of files:
  
-1. Text files (.txt, .c, etc)    #Use Easily Open and Read
-2. Binary files (.jpg, .dat, etc)    #
+# 1. Text files (.txt, .c, etc)    #Use Easily Open and Read
+# 2. Binary files (.jpg, .dat, etc)    
+
+
+# Python has a lot of functions for reading, updating, and deleting files.
+
+# Opening a file
+
+# Python has an open() function for opening files. It takes 2 parameters:  @@@  filename and *** mode.
+
+# open(“this.txt”, “r”)
+# Here, “this” is the file name and “r” is the mode of opening (read mode)
+
+# Reading a file in Python
+
+
