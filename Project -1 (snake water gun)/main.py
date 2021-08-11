@@ -12,6 +12,8 @@ randNo = random.randint(1,3)
 
 b = input("Player;s Turn: Snake(s) Water (w) or Gun (g) ? ")
 
+fjdf
+
 
 
 
