@@ -4,6 +4,10 @@
 
 # Exp: 
 
-fileptr = open("sample.txt","r")
-print(f)
+# ------------
 
+
+
+f = open('sample.txt')
+data = f.read()
+print(data)
