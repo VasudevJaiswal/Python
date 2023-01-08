@@ -29,7 +29,7 @@ elif randNo == 2:
 elif randNo == 3:
     comp = 'g'
 
-you = input("Your's  Turn: Snake(s) Water (w) or Gun (g) ? ")
+you = input("Your's  Turn: Snake(s) Water (W) or Gun (g) ? ")
 gamewin(comp,you)
 
 
